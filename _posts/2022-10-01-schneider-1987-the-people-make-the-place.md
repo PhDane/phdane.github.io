@@ -1,0 +1,20 @@
+---
+layout: post
+title: Schneider 1987 - The People Make the Place
+date: 2022-06-16 12:00:00 -0600
+categories: [Comps]
+tags: [comps, philosophy of science, personality, environment]
+---
+[Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=the+people+make+the+place&btnG=)
+
+Schneider, B. (1987). The people make the place. Personnel psychology, 40(3), 437-453.
+
+Karl Popper would have serious problems with the seeming unfalsifiability of many of the arguments in this paper.  I started off really disliking this paper and then kind of begrudgingly agreeing with the author on some points.  That being said - I do think the framework has some value.  This would also be interesting to use in a philosophy of science discussion (is this article science?).
+
+## Summary
+The author starts the paper by arguing that an inordinate amount of attention is devoted to situationism in our field, and that personality research should be given greater weight.  The assumption that environment causes behavior is wrong.  Instead, it is the people that are clustered together that actually cause the environment.  This is where I started to have problems with the paper.  Let’s consider an actual environment (e.g., the rainforest).  It seems ludicrous to say the rainforest is the result of whatever group of people happen to be there.  When one starts considering what is _actually_ happening to the rainforest (for example, using slash and burn agricultural techniques to clear rainforest for cattle grazing), it seems to be more true – people are definitely affecting the environment.  I repeatedly went through this cycle of finding a seeming counterfactual and then saying, ”Well, actually…”
+
+The main premise of this paper is the **attraction-selection-attrition cycle** (ASA).  A founder starts a business with certain goals in mind.  Similar people are attracted to this venture and join it (attraction based on homophily).  Once employed, they determine if they are a good fit (selection).  If they are not a good fit, they leave (attrition).  They are replaced by someone else attracted to the organization, and the cycle starts again.  The problem is that the author states that the reasons people stay are because they have similar personality traits.  I do agree that there is a certain sameness in people who stay employed by an organization, but I don’t think it’s only personality factors – I think it could also be situations.  But couldn’t one argue that personality factors drive people into certain situations?  Possibly – I could see that people high in extraversion might desire interpersonal interaction, and might therefore end up in a customer facing job like sales (preferences could drive this too, like Schelling’s checkerboard segregation demonstration).  The problem of “personality driving outcomes” is that it assumes a certain amount of privilege in people (privilege meaning people’s ability to influence their own environment, rather than vice-versa).  I think there are a lot of people working at difficult low-paying jobs who just cannot get other work, regardless of their own preferences.  Situational exigency is a very strong factor, especially for populations with less resources.  Wealth means more resources, more resources means greater ability to overcome or adapt, which translates into more control over one’s environment.  There might be certain organizations where this is true, but at the bottom of the pay-scale, I just don’t think that it is.  Internal attribution can be quite problematic (todo: insert link of Ross 1977 - I think that’s the fundamental attribution one).  I think situationism is not only more empathetic, but more empirically driven.
+
+## Applicability
+A good point is made about homophily in hiring leading to a stagnant firm that is unable to change with its own environment.

@@ -1,0 +1,18 @@
+---
+layout: post
+title: Crocker 1989 - Social Stigma and Self-Esteem - The Self-Protective Properties of Stigma
+date: 2022-06-16 12:00:00 -0600
+categories: [Comps]
+tags: [comps, stigma, self-esteem, dealing with stigma]
+---
+[Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Social+stigma+and+self-esteem%3A+The+self-protective+properties+of+stigma&btnG=)
+
+Crocker, J., & Major, B. (1989). Social stigma and self-esteem: The self-protective properties of stigma. Psychological review, 96(4), 608.
+
+## Summary
+Self-esteem is an inward-directed “generalized feeling of self-acceptance, goodness, worthiness, and self-respect” that is different from both self-confidence and collective (also called global) self-esteem.  Stigma occurs when a dominant social group holds negative attitudes or beliefs about another social group.  The dominant group, with its greater control of resources, disadvantages the stigmatized group by distributing resources - physical, social, or otherwise -  unequally.  Several psychological theories (looking-glass-self perspective, self-fulfilling prophecy perspective, efficacy-based perspective, and three more) predict that stigmatization results in decreased self-esteem, both individually and globally (regarding the group in which one has membership).  Reality often departs from these theoretical predictions.
+
+The authors explain this discrepancy by emphasizing three self-protective measures that are activated by stigma.  In the first, all negative feedback is attributed to prejudice.  This measure can be used in all situations where negative feedback exists, whether or not that feedback is related to prejudice.  For example, negative feedback given by a person who is perceived as non-prejudicial resulted in higher levels of depression than when negative feedback was given by a prejudiced individual.  The second self-protective measure used by stigmatized individuals is to make ingroup social comparisons, as opposed to making comparisons with the dominant outgroup.  This strategy is used because of proximity (they are closer, physically and socially, to people in their ingroup), similarity (people compare themselves to similar others to more accurately evaluate themselves - see todo:insert Festinger 1954 link), and to avoid painful social comparisons.  The third measure involves selectively devaluing the criteria on which the stigmatized group fails to perform well (e.g., a studious student might devalue athletics, or vice versa).  Factors that influence the use of these measures include the length of time that a stigmatized attribute has been present, the concealability (or demonstrability) of the stigma, whether an individual “accepts” the negative attitudes towards their group, the level of personal responsibility inherent or perceived in the stigma, how central the stigmatizing attribute might be to one’s self-worth, and if the individual has either a token or solo status.
+
+## Applications
+These are methods that can be actively taught to stigmatized individuals – though it does seem a bit like not addressing the core problem (i.e., how to get rid of either the stigma or the stigmatized condition).  That being said, at least these methods are volitional and put a certain amount of control in the hands of the stigmatized.  It’s unlikely that a stigmatized individual could control either the societal perception of their stigma or the existence of their stigmatized attribute.  In an organizational setting, it has definite application for diversity (especially the need to move beyond “token” levels of diversity).
